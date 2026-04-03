@@ -1,1 +1,3 @@
-# Inicializa o repositório da aula 03 
+# Inicializa o repositório da aula 03
+
+print('Repositório Aula 03')
